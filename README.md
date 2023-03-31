@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on different machine learning projects
-- 📫 How to reach me https://www.linkedin.com/in/farhad-sedaghati-phd-2799b712b
+- 📫 How to reach me [https://www.linkedin.com/in/farhad-sedaghati-phd-2799b712b](https://www.linkedin.com/in/farhad-sedaghati-2799b712b/?trk=people-guest_people_search-card)
 
 <!---
 farhadseda/farhadseda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
